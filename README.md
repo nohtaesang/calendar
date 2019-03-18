@@ -1,10 +1,6 @@
 ## React Monthly/Weekly Calendar
  월/주 별로 일정을 관리할 수 있는 웹 어플리케이션
 
-## Motivation
-
- 카카오페이 사전 과제에 제출하기 위해 제작 하였다. 
-
 ## Tech/framework used
 ```
 react, react-hooks, react-datepicker, sass
