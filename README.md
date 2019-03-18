@@ -12,8 +12,8 @@ react, react-hooks, react-datepicker, sass
 
 ## Install and build
 ```
-npm install
 cd client
+npm install
 npm start
 ```
 
